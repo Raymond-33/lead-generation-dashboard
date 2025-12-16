@@ -38,9 +38,13 @@ Factors considered include:
 
 Higher scores indicate higher likelihood to engage.
 
-Tech Stack
-- Python
-- Streamlit
-- Pandas
-- CSV (for demo data storage)
+How to Run the Application
+
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
+
+2.Run the Streamlit app:
+streamlit run app.py
+
 
